@@ -1,5 +1,4 @@
-### Hi there 👋  目之所及 一片荒芜   As far as I can see, a barren
-### Hi there 👋  目之所及 一片荒芜   As far as I can see, a barren 
+### Hi there 👋 <img alt="今日诗词" src="https://v2.jinrishici.com/one.svg"> 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chenaichenet&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=FFFAFA&hide_title=false">
 

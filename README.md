@@ -6,7 +6,8 @@
 - 🌏 Changsha, Hunan, China
 - 🍻 Hunan Agricultural University, majoring in computer science and technology.
 - ⚡ Java / Python / Go / C++
-- ✒ My personal blog website [ChenetBlog](https://chenetchen.ltd)
+- 🖋 My personal blog website [ChenetBlog](https://chenetchen.ltd)
+- 🏃 Table Tennis / Basketball / Cycling / Boxing / Chinese Chess
 - 📫 Contact Me chenaichenet@yeah.net
 - 🔖 吾生也有涯，而知也无涯 。以有涯随无涯，虽殆已，然乐也。
 
